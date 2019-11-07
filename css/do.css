@@ -1,0 +1,44 @@
+.mims {
+  border: 2px solid black; 
+  border-radius: 8px;
+  color: red;
+  display: flex;
+}  
+
+body{
+	font-size: 22px;
+
+}
+
+
+.rim {
+  background-color:  #CAC0C0;
+	border-left: 2px solid #CAC0C0;
+	border-right: 2px solid #CAC0C0;
+	border-bottom: 2px solid #CAC0C0;
+  border-top: 2px solid #CAC0C0;
+  padding: 8px 8px;
+  border-radius: 50px;
+  border-right-width: 8px;
+  border-left-width: 8px;
+  margin: 5px;
+}
+
+.next{
+  margin-top: 5px;
+}
+
+.rims {
+  background-color:  #CAC0C0;
+	border-left: 2px solid #CAC0C0;
+	border-right: 2px solid #CAC0C0;
+	border-bottom: 2px solid #CAC0C0;
+  border-top: 2px solid #CAC0C0;
+  padding: 7px 7px;
+  border-radius: 30px;
+  border-right-width: 7px;
+  border-left-width: 7px;
+  border-bottom-width: 7px;
+  border-top-width: 7px;
+  margin: 5px;
+}
